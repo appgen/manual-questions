@@ -9,3 +9,7 @@ Here we copy answers to the following questions
 Each directory within the present directory contains to the three answers for
 a particular entity (app, person, company, department, &c.), in files named
 `what`, `why` and `need`. The directory name is used as a unique identifier.
+
+The following notmuch search will find LinkedIn InMails.
+
+    notmuch search from:hit-reply@linkedin.com
