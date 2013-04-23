@@ -12,4 +12,4 @@ a particular entity (app, person, company, department, &c.), in files named
 
 The following notmuch search will find LinkedIn InMails.
 
-    notmuch search from:hit-reply@linkedin.com
+    notmuch show from:hit-reply@linkedin.com
